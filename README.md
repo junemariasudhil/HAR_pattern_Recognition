@@ -1,0 +1,1 @@
+# HAR_pattern_Recognition
